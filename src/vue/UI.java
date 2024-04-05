@@ -1,5 +1,7 @@
 package vue;
+import javax.swing.*;
 
-public interface UI {
-
+public interface UI extends JFrame{
+	
 }
+

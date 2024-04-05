@@ -1,5 +1,8 @@
 package modele;
 
+import java.util.Set;
+
+
 public class Task {
 	private int id;
 	private int titre;
@@ -14,5 +17,5 @@ public class Task {
 		this.dateEcheance = dateEcheance;
 		this.priorite = priorite;
 		}
-	
+	public 
 }
